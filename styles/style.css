@@ -365,6 +365,7 @@
   line-height: 30px;
   font-weight: 500;
   margin-top: 0px;
+  margin-bottom: 0px;
   z-index: 3;
 }
 
@@ -446,7 +447,6 @@
 .footer__column-link:hover {
   color: #c1c1c1;
 }
-
 
 .footer__copyrights {
   margin-top: 80px;
